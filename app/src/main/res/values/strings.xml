@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Desafio Orama</string>
+
+    <string name="fund_list_title"></string>
+    <string name="fund_list_description">Conheça a nossa lista de fundos</string>
+    <string name="fund_list_filter_button">Filtrar</string>
+    <string name="fund_list_item_invest">Aplicar</string>
+    <string name="fund_list_item_info">Saiba Mais</string>
+    <string name="fund_list_error">Ocorreu Um Erro!</string>
+    <string name="fund_list_empty">Nenhum Fundo Encontrado!</string>
+
+    <array name="suitability_profiles">
+        <item>Conservador</item>
+        <item>Moderado</item>
+        <item>Experiente</item>
+    </array>
+</resources>
